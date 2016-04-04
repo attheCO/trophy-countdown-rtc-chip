@@ -16,4 +16,5 @@ theCO - CO:DE trophy with Tiny RTC I2C chip
 - you might have to reconnect Arduino to computer every time before uploading a change
 
 ## Todo:
-Any suggestions?
+- add random message every 5secs (maybe a for-loop)
+Any other suggestions?
