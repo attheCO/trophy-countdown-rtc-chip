@@ -32,7 +32,7 @@ void loop () {
   
   time_t timeLeft,eventDate, nowTime; // setup the fields needed.
     nowTime = now();
-    eventDate = 1491307200; // April 04, 2017 12pm CT (http://www.onlineconversion.com/unix_time.htm)
+    eventDate = 1524214800; // April 20, 2018 9am CT (http://www.onlineconversion.com/unix_time.htm)
     timeLeft = (eventDate - nowTime) - 56014; // dedecut secs to match CT timezone : hacky I know
 
     // has event date arrived?
